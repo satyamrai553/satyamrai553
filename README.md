@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Rai</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Backend Developer** and a **Final Year B.Tech Student in IT**, constantly exploring and building innovative solutions with technology.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer**, constantly exploring and building innovative solutions with technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamrai553&label=Profile%20views&color=0e75b6&style=flat" alt="satyamrai553" /> </p>
 
